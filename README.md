@@ -42,4 +42,3 @@ Frio is a Raspberry Pi Zero 2 W-based Wi-Fi deauther and handshake capturer buil
 This tool is intended for authorized testing and research purposes only. Unauthorized access to networks is illegal and unethical. Use responsibly.
 
 ---
-```
